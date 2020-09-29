@@ -1,0 +1,345 @@
+/* Header */
+
+#header {
+	padding-top: 5px;
+}
+
+img#logo {
+	width: 177px;
+	height: 50px;
+	margin-left: 50px;
+}
+
+a.nav-link {
+	color: #74808e;
+}
+
+#es a {
+	color: #ffc107;
+}
+#usu img{
+   width: 41px;
+   height: 42px;
+}
+#usu button{
+	margin-left: 320px;
+}
+
+/* Header */
+
+/* MIJAGA */
+
+.breadcrumb-craw {
+	max-width: 100%;
+	background-color: #f9f7f1;
+}
+
+img#logo1{
+	width: 110px;
+}
+
+a#NA {
+	color: black;
+	font-family: "NunitoSans-Regular";
+}
+
+a#NA1 {
+	color: black;
+	font-family: "NunitoSans-Regular";
+}
+a#NA2 {
+	color: black;
+	font-family: "NunitoSans-Regular";
+}
+
+a#NA3 {
+	color: black;
+	font-family: "NunitoSans-Regular";
+}
+
+ul {
+	list-style-type: inherit;
+}
+
+#mijaga li {
+	position: relative;
+	margin-right: 10px;
+	padding-right: 20px;
+}
+
+.breadcrumb a {
+	font-family: "NunitoSans-Bold";
+	font-size: 14px;
+}
+
+ul.breadcrumb li:after {
+	content: "";
+	background: url(../images/iconos/right-arrow.svg);
+	position: absolute;
+	right: 0px;
+	top: 11px;
+	width: 9px;
+	height: 8px;
+	background-size: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+ul.breadcrumb li:last-child:after {
+	display: none;
+}
+
+
+/* Style the list */
+
+ul.breadcrumb {
+	list-style: none;
+	padding: 3px;
+	padding-bottom: 4px;
+	background-color: #f9f7f1;
+}
+
+
+/* Display list items side by side */
+
+ul.breadcrumb li {
+	display: inline;
+	font-size: 18px;
+}
+
+
+/* Add a color to all links inside the list */
+
+ul.breadcrumb li a {
+	color: #459ae2;
+	text-decoration: none;
+}
+
+
+/* Add a color on mouse-over */
+
+ul.breadcrumb li a:hover {
+	color: #01447e;
+	text-decoration: underline;
+}
+
+svg
+/* MIJAGA */
+
+
+/* accordion */
+
+ul {
+	list-style-type: none;
+}
+
+.card-header {
+	padding: 0;
+}
+
+.card {
+	border: transparent;
+}
+
+.btn-link {
+	color: grey;
+	text-align: left;
+	font-size: 13px;
+	font-family: "Montserrat-SemiBold";
+	text-decoration: none;
+}
+
+#accordionExample {
+	background-color: white;
+}
+
+#headingOne i {
+	margin-left: 170px;
+}
+
+#headingTwo i {
+	margin-left: 169px;
+}
+
+#headingThree i {
+	margin-left: 170px;
+}
+
+#headingFour i {
+	margin-left: 93px;
+}
+
+#headingFive i {
+	margin-left: 96px;
+}
+
+#headingSix i {
+	margin-left: 79px;
+}
+
+#headingSeven i {
+	margin-left: 90px;
+}
+
+#headingEight i {
+	margin-left: 167px;
+}
+
+#headingNine i {
+	margin-left: 158px;
+}
+
+#headingTen i {
+	margin-left: 167px;
+}
+
+#headingEleven i {
+	margin-left: 157px;
+}
+
+#headingTwelve i {
+	margin-left: 179px;
+}
+
+.card-body li,
+a {
+	color: black;
+	font-family: "NunitoSans-Bold";
+	font-size: 15px;
+	list-style-type: none;
+	position: relative;
+}
+
+.card-body li:hover:before {
+	content: "";
+	background: url(../images/iconos/right-arrow.svg);
+	position: absolute;
+	right: 208px;
+	top: 0px;
+	width: 9px;
+	height: 8px;
+	background-size: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.card-body {
+	background-color: #EFF0F1;
+}
+
+.card-header h5 {
+	font-size: 15px;
+	font-family: "Montserrat-SemiBold";
+	text-decoration: underline;
+	color: #e5e9f4;
+	border-left: none;
+	background-color: white;
+}
+
+.collapsed {
+	background-color: white;
+	margin-left: -3px;
+	padding-left: 17px;
+	border-radius: 1px;
+}
+
+.accordion>.card .card-header {
+	margin-bottom: 0px;
+}
+
+.btn-link:hover {
+	text-decoration: none;
+	color: #e0921f;
+}
+
+.space {
+	margin-top: 21px;
+}
+
+
+/* accordion */
+
+/* TEXT IMG */
+img#lampara{
+  margin-top: 10px;
+  margin-left: 30px;
+  height: 297px;
+  width: 392px;
+}
+#imgt img {
+	position: absolute;
+	margin-top: -335px;
+	top: 350px;
+	left: 313px;
+}
+#imgt2 img {
+	position: absolute;
+	margin-top: -335px;
+	top: 350px;
+	left: 358px;
+}
+#info img{
+	margin-left: 20px;
+	object-fit: cover;
+}
+.btn-outline-secondary{
+	color: grey;
+	border-color: #d1d4d6;
+	border-radius: 1px;
+	font-family: "NunitoSans-Bold";
+	font-size: 14px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.btn-outline-secondary:hover{
+	color: #0786C6;
+	background-color: #eff0f1;
+	border-color: #eff0f1;
+}
+.btn-outline-secondary:not(:disabled):not(.disabled):active{
+	color: #0786C6;
+	background-color: #eff0f1;
+	border-color: #eff0f1;
+}
+button.activo{
+    color: #dea747;
+	background-color: #eff0f1;
+	border-color: #eff0f1;
+}
+
+/* TEXT IMG */
+
+/* tabs */
+#pills-tab{
+	margin-top: 30px;
+}
+.nav-pills .nav-link.active{
+	background-color: #dea747;
+}
+.nav-pills .nav-link{
+	background-color: #EFF0F1;
+	color: #576680;
+}
+}
+.puntos li:before {
+	height: 80px;
+	content:".";
+	font-size: 18px;
+	float: left;
+	color: orange;
+	margin-top: -8px;
+	width: 20px;
+}
+.puntos li{
+	list-style-type: none;
+}
+/* tabs */
+
+/* footer */
+footer.back{
+	background-color: #f6d258;
+}
+footer a{
+	color: black;
+}
+/* footer */

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="18px" viewBox="0 0 10 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>up-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.4-Modelo" transform="translate(-970.000000, -1748.000000)" fill="#4D5C78" fill-rule="nonzero" stroke="#4D5C78">
+            <g id="Body" transform="translate(0.000000, 94.000000)">
+                <g id="related" transform="translate(450.000000, 1341.000000)">
+                    <g id="label" transform="translate(285.000000, 307.000000)">
+                        <g id="up-arrow" transform="translate(240.184615, 15.000000) rotate(90.000000) translate(-240.184615, -15.000000) translate(232.184615, 10.815385)">
+                            <path d="M1.07126154,8.19593846 L8.10141538,1.22289231 L15.1364923,8.20061538 C15.2342154,8.2976 15.3622154,8.34584615 15.4899692,8.34584615 C15.6179692,8.34584615 15.7459692,8.2976 15.8434462,8.20061538 C16.0386462,8.00689231 16.0386462,7.69304615 15.8434462,7.49932308 L8.46375385,0.179938462 C8.41452308,0.130707692 8.34215385,0.0876307692 8.27741538,0.0630153846 C8.0928,-0.0064 7.88430769,0.0366769231 7.74424615,0.175261538 L0.364061538,7.49464615 C0.168861538,7.68836923 0.168861538,8.00221538 0.364061538,8.19593846 C0.559507692,8.38941538 0.875815385,8.38941538 1.07126154,8.19593846 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

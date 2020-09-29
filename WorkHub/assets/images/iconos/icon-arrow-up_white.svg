@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="12px" viewBox="0 0 23 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>up-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-Home-menu-2-nivels" transform="translate(-1238.000000, -712.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="button" transform="translate(1116.000000, 698.000000)">
+                <g id="up-arrow" transform="translate(122.000000, 14.000000)">
+                    <path d="M1.53993846,11.7816615 L11.6457846,1.75790769 L21.7587077,11.7883846 C21.8991846,11.9278 22.0831846,11.9971538 22.2668308,11.9971538 C22.4508308,11.9971538 22.6348308,11.9278 22.7749538,11.7883846 C23.0555538,11.5099077 23.0555538,11.0587538 22.7749538,10.7802769 L12.1666462,0.258661538 C12.0958769,0.187892308 11.9918462,0.125969231 11.8987846,0.0905846154 C11.6334,-0.0092 11.3336923,0.0527230769 11.1323538,0.251938462 L0.523338462,10.7735538 C0.242738462,11.0520308 0.242738462,11.5031846 0.523338462,11.7816615 C0.804292308,12.0597846 1.25898462,12.0597846 1.53993846,11.7816615 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,128 @@
+/* Header */
+
+#header {
+	box-shadow: 0 10px 20px rgba(197, 175, 175, 0.2);
+	padding-top: 5px;
+}
+
+img#logo {
+	width: 177px;
+	height: 50px;
+	margin-left: 50px;
+}
+
+a.nav-link {
+	color: #74808e;
+}
+
+#es a {
+	color: #ffc107;
+}
+#usu img{
+   width: 41px;
+   height: 42px;
+}
+#usu button{
+	margin-left: 260px;
+}
+
+/* Header */
+
+/* mijaga */
+#mijaga li {
+	position: relative;
+	margin-right: 10px;
+	padding-right: 20px;
+} 
+
+.breadcrumb-craw {
+	max-width: 100%;
+	background-color: #f9f7f1;
+	margin-top: 20px
+}
+
+a#NA {
+	color: black;
+	font-family: "NunitoSans-Regular";
+}
+a#NA1 {
+	color: black;
+	font-family: "NunitoSans-Regular";
+}
+
+ul {
+	list-style-type: inherit;
+}
+
+#mijaga li {
+	position: relative;
+	margin-right: 10px;
+	padding-right: 20px;
+}
+
+.breadcrumb a {
+	font-family: "NunitoSans-Bold";
+	font-size: 14px;
+}
+
+ul.breadcrumb li:after {
+	content: "";
+	background: url(../images/iconos/right-arrow.svg);
+	position: absolute;
+	right: 0px;
+	top: 11px;
+	width: 9px;
+	height: 8px;
+	background-size: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+ul.breadcrumb li:last-child:after {
+	display: none;
+}
+
+
+/* Style the list */
+
+ul.breadcrumb {
+	list-style: none;
+	background-color: #f9f7f1;
+	padding: 3px;
+	padding-bottom: 4px;
+}
+
+
+/* Display list items side by side */
+
+ul.breadcrumb li {
+	display: inline;
+	font-size: 18px;
+}
+
+
+/* Add a color to all links inside the list */
+
+ul.breadcrumb li a {
+	color: #459ae2;
+	text-decoration: none;
+}
+
+
+/* Add a color on mouse-over */
+
+ul.breadcrumb li a:hover {
+	color: #01447e;
+	text-decoration: underline;
+}
+
+/* MIJAGA */
+
+/* footer */
+footer.back{
+	background-color: #f6d258;
+}
+footer a{
+	color: black;
+}
+/* footer */
